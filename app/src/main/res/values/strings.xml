@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="error_msg">Error Occurred</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="restart">Restart</string>
+    <string name="guess">Guess</string>
+    <string name="notification_text">Notification Text</string>
+</resources>
